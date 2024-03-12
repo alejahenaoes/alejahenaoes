@@ -1,5 +1,5 @@
 <h1 align="center">Hi :blush:👋, I'm Aleja</h1>
-<h3 align="center"> :unicorn: A full-time learner, passionate dev girl, product manager & marketer from 🇨🇴</h3> 
+<h3 align="center"> :unicorn: A full-time learner, passionate tech girl, Grrowth Manager 🇨🇴</h3> 
 
 - 🔭 I am an activist committed to the technology community. I collaborate in the organization of events and as a volunteer in logistics and I am a speaker on innovation and employability in technology, I participate in the WomenTech Makers communities of Google, AWS Women Colombia, Cloud Camp and Notion Colombia. 
 
