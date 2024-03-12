@@ -1,10 +1,10 @@
 <h1 align="center">Hi :blush:👋, I'm Aleja</h1>
 <h3 align="center"> :unicorn: A full-time learner, passionate dev girl, product manager & marketer from 🇨🇴</h3> 
 
-- 🔭 I’m currently **training as a Data Analyst with [Correlation One](https://www.correlation-one.com)** and the last company I worked for was [Platzi](https://platzi.com), where I led activities to improve the organizational culture of my team and throughout my career I have developed skills in marketing and in turning customer data into insights to improve products and meet their needs. 
+- 🔭 I am an activist committed to the technology community. I collaborate in the organization of events and as a volunteer in logistics and I am a speaker on innovation and employability in technology, I participate in the WomenTech Makers communities of Google, AWS Women Colombia, Cloud Camp and Notion Colombia. 
 
 
-- :rainbow: I’m currently learning **AWS, JavaScript, Python, Excel, Marketing Analyst**
+- :rainbow: I’m currently learning **Communities, AI, Entrepreneurship, Leadership**
 
 - 👯 I’m looking to **be part of a technology company that will allow me to continue learning new things every day both technically and emotionally and empower more women to be part of this industry.**
 
@@ -12,7 +12,7 @@
 🎧[Tech Podcast Channel](https://alejahenaoes.github.io/alejahenaoes/) My first Front-End project from Acamica's course <br>
 🎏  [GIFs Gallery](https://alejahenaoes.github.io/gifos-project/) A Front-End project from Acamica's course. Built using Giphy's API <br>
 
-- 📝 I regularly share my learnings at [Instagram - @alejahenaoe](https://www.instagram.com/alejahenaoe/)
+- 📝 I regularly share my learnings at [Instagram - @alejahenaoe](https://www.instagram.com/alejahenaoe/) and (LinkedIn - https://www.linkedin.com/in/alejahenaoe/)
 
 - 💬 Ask me about **project management, web development, productivity, content creation, soft skills**
 
